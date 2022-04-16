@@ -1,5 +1,7 @@
 ![Overall Project](https://github.com/StarGazeRWK/InnovateFPGA2021-2-AP028/blob/main/picture/InnovateFPGA%20Logo.png)
 
+# AP028 - Development of Intelligent Food Supply Chain Management System
+
 ![Overall Project](https://github.com/StarGazeRWK/InnovateFPGA2021-2-AP028/blob/main/picture/Overall%20Project.png)
 
 
